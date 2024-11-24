@@ -25,6 +25,10 @@ npm start
 - Users can send text messages in the chat room.
   
 
+![Project Screenshot](./client/src/icons/Screenshot3.png)
+
+- Multiple users can join and interact in the same chat room simultaneously.
+  
 ![Project Screenshot](./client/src/icons/Screenshot2.png)
 
 

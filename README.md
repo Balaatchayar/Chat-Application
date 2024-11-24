@@ -9,22 +9,17 @@ Clone the repository:
    git clone https://github.com/Balaatchayar/Chat-Application
    ```
 
-Backend:
+Install & Start backend:
 ```bash
 cd server
 npm install
+npm start
 ```
-Frontend:
+Install & Start Frontend:
 ```bash
 cd ../client
 npm install
-```
-
-Start backend & frontend:
-```bash
-cd server
-npm start
-
-cd ../client
 npm start
 ```
+
+
